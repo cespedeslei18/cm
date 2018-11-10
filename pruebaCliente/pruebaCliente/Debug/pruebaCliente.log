@@ -1,0 +1,8 @@
+﻿  Menu Vendedor.cpp
+  MenuAdministrador.cpp
+  MenuClienteFuncionario.cpp
+  MenuClienteNoAutorizado.cpp
+  MenuReportes.cpp
+  Generando código...
+  IngresarCedula.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  pruebaCliente.vcxproj -> C:\Users\Leidy\source\repos\pruebaCliente\Debug\pruebaCliente.exe
