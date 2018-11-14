@@ -13,6 +13,7 @@
 void NodoBinario::InsertaBinario(string num,int nombreCiu)
 {
     int number;
+    int prueba;
 
         // Convert the number into a string.
     number = stoi(num);
